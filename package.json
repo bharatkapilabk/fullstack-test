@@ -20,5 +20,8 @@
   "homepage": "https://github.com/bharatkapilabk/fullstack#readme",
   "dependencies": {
     "lite-server": "^2.5.4"
+  },
+  "devDependencies": {
+    "node-sass": "^4.14.0"
   }
 }
